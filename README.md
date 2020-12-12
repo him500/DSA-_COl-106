@@ -1,4 +1,4 @@
-# Data-Structure-and-Algorithms
+# Data Structure and Algorithms
  
  1) Hash Map : 
  Implemented using open addressing with linear probing. Hash function used
